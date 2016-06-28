@@ -1,0 +1,21 @@
+{
+  "name": "plugin-slack",
+  "version": "2.11.0",
+  "description": "Slack Plugin for Intelie Live",
+  "main": "webapp/js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "node-sass": "^3.8.0",
+    "sass-loader": "^4.0.0",
+    "webpack": "^1.13.1"
+  }
+}
