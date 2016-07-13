@@ -3,11 +3,8 @@
   "version": "2.11.0",
   "description": "Slack Plugin for Intelie Live",
   "main": "webapp/js/app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "author": "Intelie",
+  "license": "Apache 2.0",
   "devDependencies": {
     "babel-cli": "^6.10.1",
     "babel-core": "^6.10.4",
